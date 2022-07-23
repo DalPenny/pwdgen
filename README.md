@@ -30,9 +30,11 @@ Used Javascript, html and css to build this password generator application
 
 The page was styled so that it could fit in multiple device size (phone, tablet, laptop/desktop) 
 
-## Images go here
 
-## Links go here
-#link to application: https://dalpenny.github.io/pwdgen/
-#link to github: 
-    #https://github.com/DalPenny/pwdgen
+## Link to application: 
+    # https://dalpenny.github.io/pwdgen/
+## Link to github: 
+    # https://github.com/DalPenny/pwdgen
+
+## Images go here
+￼￼
