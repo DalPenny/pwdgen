@@ -32,9 +32,9 @@ The page was styled so that it could fit in multiple device size (phone, tablet,
 
 
 ## Link to application: 
-    # https://dalpenny.github.io/pwdgen/
+    https://dalpenny.github.io/pwdgen/
 ## Link to github: 
-    # https://github.com/DalPenny/pwdgen
+    https://github.com/DalPenny/pwdgen
 
 ## Links to screenshots of deployed application
 ￼￼
