@@ -9,7 +9,7 @@ var pwFormula = {
    curLength: 0,
 
   //special characters
-  pwSpecial: ["!", "#", "$", "%", "&", "'", "(", ")", "*", "+", "-" ,"." ,"/" , ":" , ";" , "<", "=" , ">", "?", "@", "[", "]", "^", "_", "`", "{", "|", "}", "~"],
+  pwSpecial: ["!", "#", "$", "%", "&", "(", ")", "*", "+", "-" ,"/" , "<", "=" , ">", "?", "@", "[", "]", "_", "{", "|", "}"],
 
   //numbers
   pwnum: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
@@ -86,7 +86,7 @@ function generatePassword() {
                 pwFormula. curLength++;
               }       
               if (spCharacter === true && pwFormula. curLength < pwLength) {
-                var spc = pwFormula.pwSpecial[Math.floor(Math.random() * 32)]
+                var spc = pwFormula.pwSpecial[Math.floor(Math.random() * 22)]
                 curpwText = curpwText + spc;
                 pwFormula. curLength++;
               }
